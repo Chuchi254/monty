@@ -4,7 +4,7 @@
 
 /**
  * mod - computes the rest of the division of the second top element
- * of the stack 
+ * of the stack
  * @stack: double pointer to the stack
  * @line_number: the current line number in the file
  */
